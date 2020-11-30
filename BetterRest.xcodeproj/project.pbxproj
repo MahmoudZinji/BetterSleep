@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CE223F4B2574C1AD009A8CC5 /* SleepCalculator.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = CE223F4A2574C1AD009A8CC5 /* SleepCalculator.mlmodel */; };
 		CEE8E7E8256E7C8700E8F6A7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE8E7E7256E7C8700E8F6A7 /* AppDelegate.swift */; };
 		CEE8E7EA256E7C8700E8F6A7 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE8E7E9256E7C8700E8F6A7 /* SceneDelegate.swift */; };
 		CEE8E7EC256E7C8700E8F6A7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE8E7EB256E7C8700E8F6A7 /* ContentView.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		CE223F4A2574C1AD009A8CC5 /* SleepCalculator.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = SleepCalculator.mlmodel; sourceTree = "<group>"; };
 		CEE8E7E4256E7C8700E8F6A7 /* BetterRest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BetterRest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CEE8E7E7256E7C8700E8F6A7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CEE8E7E9256E7C8700E8F6A7 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -62,6 +64,7 @@
 				CEE8E7ED256E7C8900E8F6A7 /* Assets.xcassets */,
 				CEE8E7F2256E7C8900E8F6A7 /* LaunchScreen.storyboard */,
 				CEE8E7F5256E7C8900E8F6A7 /* Info.plist */,
+				CE223F4A2574C1AD009A8CC5 /* SleepCalculator.mlmodel */,
 				CEE8E7EF256E7C8900E8F6A7 /* Preview Content */,
 			);
 			path = BetterRest;
@@ -147,6 +150,7 @@
 			files = (
 				CEE8E7E8256E7C8700E8F6A7 /* AppDelegate.swift in Sources */,
 				CEE8E7EA256E7C8700E8F6A7 /* SceneDelegate.swift in Sources */,
+				CE223F4B2574C1AD009A8CC5 /* SleepCalculator.mlmodel in Sources */,
 				CEE8E7EC256E7C8700E8F6A7 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
